@@ -1,4 +1,4 @@
-# ChatGPT Review Pulse — Milestone 2
+# ChatGPT Review Pulse — Milestone 5
 
 An interactive prototype that turns a sample of public ChatGPT mobile app review excerpts into a structured product pulse, a facts-only customer clarification, and an approval-gated publishing simulation.
 
